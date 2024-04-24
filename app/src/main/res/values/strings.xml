@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DAILY BREAD DEVOTIONS</string>
+    <string name="app_title">DAILY BREAD DEVOTIONS</string>
+
+    <string name="goodnight">Goodnight Message</string>
+    <string name="DailyDevotion">Daily Devotion</string>
+    <string name="back">Back</string>
+    <string name="stop">Stop</string>
+    <string name="first_reading">FIRST READING</string>
+    <string name="second_reading">SECOND READING</string>
+    <string name="responsorial_psalm">RESPONSORIAL PSALM</string>
+    <string name="gospel_acclamation">GOSPEL ACCLAMATION</string>
+    <string name="gospel">GOSPEL READING</string>
+    <string name="home">HOME</string>
+</resources>
